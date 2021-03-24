@@ -1,1 +1,7 @@
+#form-letter {
+  display: none;
+}
 
+.form-group {
+  width: 300px;
+}
